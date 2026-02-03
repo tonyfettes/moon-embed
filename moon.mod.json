@@ -8,5 +8,6 @@
   },
   "description": "Embed files into MoonBit source as String or Bytes bindings.",
   "license": "Apache-2.0",
-  "repository": "https://github.com/tonyfettes/moon-embed"
+  "repository": "https://github.com/tonyfettes/moon-embed",
+  "readme": "README.md"
 }
